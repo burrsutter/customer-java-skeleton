@@ -1,0 +1,10 @@
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/dto/CustomerRequest.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/dto/CustomerResponse.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/dto/ErrorResponse.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/dto/PagedResponse.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/entity/Customer.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/exception/DuplicateEntityException.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/exception/ExceptionMappers.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/exception/NotFoundException.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/mapper/CustomerMapper.java
+/Users/bsutter/ai-projects/may13-2026-summit/customer-java-skeleton-summit/src/main/java/org/redhat/rhdh/resource/CustomerResource.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.redhat.rhdh.resource.CustomerResourceTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.540 s -- in org.redhat.rhdh.resource.CustomerResourceTest
